@@ -1,3 +1,3 @@
 # react-challenge-starter
 
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/github-1uonha-9xqkq6)
+https://stackblitz.com/github/kashyap07/react-challenge-starter?file=src%2FApp.tsx
